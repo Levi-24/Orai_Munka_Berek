@@ -29,4 +29,5 @@ foreach (var dolgozo in reszlegStatisztika)
     Console.WriteLine($"\t{dolgozo.Key}, {dolgozo.Count()}");
 }
 
+//Major Levente 2024.11.19.
 //Munkaidő: 00:25:10
